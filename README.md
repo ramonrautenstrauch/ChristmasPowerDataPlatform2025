@@ -48,7 +48,7 @@ Este evento no tiene costes, mejor dicho, los organizadores asumen los pocos cos
 - **Nextstep**
 - **lune.soft**
 - **Tokioita**
-- **waibbo****
+- **waibbo**
 
 ## Licencia
 Este repositorio se distribuye bajo la [Licencia MIT](LICENSE). Consulta el archivo de licencia para más detalles sobre el uso y distribución del contenido.
