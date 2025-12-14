@@ -34,7 +34,7 @@ Este evento no tiene costes, mejor dicho, los organizadores asumen los pocos cos
 - **Libro de modeloado de datos en POWER BI**
 - **La Power Taberna**
 - **dataXbi.com**
-- **Creativity Spark** -> Aquí TOni Granell trabaja como Solutions Architect [Creativity Spark](https://creativityspark.es/es/sobre-nosotros/)
+- **Creativity Spark** -> Toni Granell trabaja es Solutions Architect en [Creativity Spark](https://creativityspark.es/es/sobre-nosotros/)
 - **NTT DATA**
 - **Plexus Tech**
 - **SoyDBA**
